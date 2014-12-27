@@ -1,3 +1,9 @@
+/*
+tempsensor.ino
+Copyright 2013, Chris Billington
+Licensed under the simplified BSD License. See the LICENSE.txt for the full license.
+*/
+
 #include <SPI.h>
 #include <Ethernet.h>
 
